@@ -23,6 +23,14 @@
       "danfeApi": "",
       "version": "1.0",
       "url": "NEUwNChvB34zOTo3WHYRQkJf"
-    }
+    },
+    {
+      "cliente": "-/-",
+      "licenca": "fa284c7a-8f1a-4129-9486-1d706afe4b43",
+      "dataExpiracao": "27-06-2026",
+      "danfeApi": "95314024-ccaa-4c36-8196-83ce2a6aafc0",
+      "version": "1.0",
+      "url": ""
+    },
   ]
 }
