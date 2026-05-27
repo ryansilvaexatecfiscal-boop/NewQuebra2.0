@@ -31,6 +31,6 @@
       "danfeApi": "95314024-ccaa-4c36-8196-83ce2a6aafc0",
       "version": "1.0",
       "url": ""
-    },
+    }
   ]
 }
