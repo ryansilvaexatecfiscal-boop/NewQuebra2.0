@@ -2,7 +2,7 @@
   "licencas": [
     {
       "cliente": "EXATEC",
-      "licenca": "f5b6e6a5-2849-4292-9e89-a25fc80c5833",
+      "licenca": "57f56c52-9a43-4f36-8641-ebb127753056",
       "dataExpiracao": "15-06-2026",
       "danfeApi": "f0a666d6-2a7c-4f0b-81e2-6a7cf5d7a873",
       "version": "1.0",
