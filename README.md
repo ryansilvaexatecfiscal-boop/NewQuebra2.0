@@ -36,7 +36,7 @@
       "cliente": "SCALLA-RAYANE",
       "licenca": "a1644c83-f2d2-40df-a2f3-7ef058037521",
       "dataExpiracao": "27-06-2026",
-      "danfeApi": "",
+      "danfeApi": "562cb611-9c4c-499e-ae9c-a77b8790477a",
       "version": "1.0",
       "url": ""
     },
@@ -44,7 +44,7 @@
       "cliente": "SCALLA-LORRAINE",
       "licenca": "e67f4fc6-5f17-49b7-a304-68688b0d3047",
       "dataExpiracao": "27-06-2026",
-      "danfeApi": "",
+      "danfeApi": "3a783a92-2bb3-4b13-bab3-28929354d211",
       "version": "1.0",
       "url": ""
     },
@@ -52,7 +52,7 @@
       "cliente": "SCALLA-ANA",
       "licenca": "2c9b6e5d-5c9f-4a63-9e20-e73c90477f89",
       "dataExpiracao": "27-06-2026",
-      "danfeApi": "",
+      "danfeApi": "39f8fcb7-45b5-478c-a2c0-18f2d3aca67e",
       "version": "1.0",
       "url": ""
     },
@@ -60,7 +60,7 @@
       "cliente": "SCALLA-RODRIGO",
       "licenca": "1505a40e-f596-42db-bccd-4079d3a5dfbf",
       "dataExpiracao": "27-06-2026",
-      "danfeApi": "",
+      "danfeApi": "7881d8d4-8c4e-4f47-812a-97b8c78872eb",
       "version": "1.0",
       "url": ""
     },
