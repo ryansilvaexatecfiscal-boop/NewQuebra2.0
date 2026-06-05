@@ -27,10 +27,10 @@
     {
       "cliente": "-/-",
       "licenca": "fa284c7a-8f1a-4129-9486-1d706afe4b43",
-      "dataExpiracao": "27-06-2026",
+      "dataExpiracao": "27-10-2026",
       "danfeApi": "95314024-ccaa-4c36-8196-83ce2a6aafc0",
-      "version": "1.0",
-      "url": ""
+      "version": "1.1",
+      "url": "NEUwNChvB34wOSI+WHxeRRwHTWh/Wk5CS1U4R240cFwzXGs8Yz5aPyA4Jz0MalhRf209EChkXm9kR2t0KGMSTB5lDXEDMx0QIh9sClxSCFJEaDQ2F3JTbUQAEkRODjpMGQN8EhhkbBogBz4YcEBTUERrEhMkAWdDYUQ0Xl1jZwY2fwoKHHhfGzsiYj9SW2xwH0gdcQhlU0JRAyteRjYMVAkFMwY5E0UeNgMnZVleUGxaczo3FmJ+XhBDDkNdC2toKEk0PBEjGBkuDC85VyN2RXwdDWpmVRoQE0NvSG8lbVs+Hg0qKCFJPTUyOiIfd1AKfEcZPiNWAGJHHw1LbSQ7UT9YJWo+LU0="
     },
     {
       "cliente": "SCALLA-RAYANE",
