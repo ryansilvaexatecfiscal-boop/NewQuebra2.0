@@ -28,7 +28,7 @@
       "cliente": "-/-",
       "licenca": "fa284c7a-8f1a-4129-9486-1d706afe4b43",
       "dataExpiracao": "27-10-2026",
-      "danfeApi": "95314024-ccaa-4c36-8196-83ce2a6aafc0",
+      "danfeApi": "3aa2fde4-8e30-4ea3-b405-d6733b3e9854",
       "version": "1.1",
       "url": "NEUwNChvB34wOSI+WHxeRRwGS2h/Wk5CS1U4R240cFwzXGsjODlGOjk4PTEMYFh+cnUTDCtyEhRoem9/d2A6TgtBdjAJJWkEIRwiKmxddhNueTIKBF9Hbn1bJGdUJituJXtyIhwTfxkOHi8GZj50TlhWFj5lUERBS3UmYUQ8bXgpBSgAbBhQFxERBAVMImhxYXFIKmJ8aRVLfDgYLCVubS5edwUVEG8/MR8iABl4dWIfUVElYHFDR25jbnxGFzVtKl58IWIDeRs6ICEAQ0JNUHwdHjUnQkRTTwRtRC0hNVFpHg0qKCFJPTUyOiIfd1AKfEcZPiNWAGJHHw1LbSQ7UT9YJWo+LU0="
     },
