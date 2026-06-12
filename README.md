@@ -11,7 +11,7 @@
     {
       "cliente": "SCALLA",
       "licenca": "ded3ce9a-b80e-4c3c-bd5a-c6b9d30530c6",
-      "dataExpiracao": "10-06-2026",
+      "dataExpiracao": "10-07-2026",
       "danfeApi": "6f2ed5d1-34d2-4799-8846-b3d16d2a2ae7",
       "version": "1.1",
       "url": "NEUwNChvB34wOSI+WHxeRRwGS2h/Wk5CS1U4R240cFwzXGsjODlGOjk4PTEMYFh+cnUTDCtyEhRoem9/d2A6TgtBdjAJJWkEIRwiKmxddhNueTIKBF9Hbn1bJGdUJituJXtyIhwTfxkOHi8GZj50TlhWFj5lUERBS3UmYUQ8bXgpBSgAbBhQFxERBAVMImhxYXFIKmJ8aRVLfDgYLCVubS5edwUVEG8/MR8iABl4dWIfUVElYHFDR25jbnxGFzVtKl58IWIDeRs6ICEAQ0JNUHwdHjUnQkRTTwRtRC0hNVFpHg0qKCFJPTUyOiIfd1AKfEcZPiNWAGJHHw1LbSQ7UT9YJWo+LU0="
