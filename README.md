@@ -3,7 +3,7 @@
     {
       "cliente": "EXATEC",
       "licenca": "57f56c52-9a43-4f36-8641-ebb127753056",
-      "dataExpiracao": "15-06-2026",
+      "dataExpiracao": "15-07-2026",
       "danfeApi": "f0a666d6-2a7c-4f0b-81e2-6a7cf5d7a873",
       "version": "1.1",
       "url": "NEUwNChvB34wOSI+WHxeRRQGT3I8Uk9PQ1I3XHl/PVAxHiB3MjQaKycwMCFfdEtQQmAINSVSH18UcSpnVGJtWD4HMz0PP04mFRc9MgRyemJESxEXAgZIY3d4F10vCTRKJF8CcxZgQyQkFD8CeHp1Q3lwKGwWWn5zZwMxTSQAa1UWSA8FFDh6CxghGX1iaktXeV4lExBxXUNEcRdsfwkoShFVCAsQBxwzGQA0GQFLe1AddhgXMH9ga2t9KW13Mxp4GV8vJg0HQmQxBhk/QGtGVgJCTyljXk5BSkE3XnMgPVFzeCo3LzREMDA5J3tQfBRwWFceLjAcb0MJZztfaTQwXDVQb2lwEFAwIDM2flFrWg=="
