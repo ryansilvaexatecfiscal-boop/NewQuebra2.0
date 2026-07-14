@@ -12,7 +12,7 @@
     {
       "cliente": "SCALLA",
       "licenca": "ded3ce9a-b80e-4c3c-bd5a-c6b9d30530c6",
-      "dataExpiracao": "10-07-2026",
+      "dataExpiracao": "10-08-2026",
       "danfeApi": "562cb611-9c4c-499e-ae9c-a77b8790477a",
       "nfce": true,
       "version": "1.3",
@@ -30,7 +30,7 @@
     {
       "cliente": "SCALLA-LORRAINE",
       "licenca": "e67f4fc6-5f17-49b7-a304-68688b0d3047",
-      "dataExpiracao": "10-07-2026",
+      "dataExpiracao": "10-10-2026",
       "danfeApi": "3a783a92-2bb3-4b13-bab3-28929354d211",
       "nfce": true,
       "version": "1.3",
