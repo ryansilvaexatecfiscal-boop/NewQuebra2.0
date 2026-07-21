@@ -21,8 +21,8 @@
     {
       "cliente": "MORAES",
       "licenca": "530cb9f5-d8f3-478b-b26c-d8422af2d563",
-      "dataExpiracao": "10-08-2026",
-      "danfeApi": "6f2ed5d1-34d2-4799-8846-b3d16d2a2ae7",
+      "dataExpiracao": "21-08-2026",
+      "danfeApi": "e2bd439e-3e35-45b9-a64d-87b3c03d4a08",
       "nfce": false,
       "version": "1.3",
       "url": "NEUwNChvB34jISJ+WXZbSExUFS40GUhJTxs4R3A0cVIuRTB0MGwbZjs+IDlWeRBoQ0EIPT1WT0lQHzpBNwArWj5DJW8fMAMCMScgNVpwVkAGRE1yYhlOXkcbOEdwNA=="
