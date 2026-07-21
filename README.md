@@ -19,6 +19,15 @@
       "url": "NEUwNChvB34jISJ+WXZbSExUFS40GUhJTxs4R3A0cVIuRTB0MGwbZjs+IDlWeRBoQ0EIPT1WT0lQHzpBNwArWj5DJW8fMAMCMScgNVpwVkAGRE1yYhlOXkcbOEdwNA=="
     },
     {
+      "cliente": "MORAES",
+      "licenca": "530cb9f5-d8f3-478b-b26c-d8422af2d563",
+      "dataExpiracao": "10-08-2026",
+      "danfeApi": "",
+      "nfce": false,
+      "version": "1.3",
+      "url": "NEUwNChvB34jISJ+WXZbSExUFS40GUhJTxs4R3A0cVIuRTB0MGwbZjs+IDlWeRBoQ0EIPT1WT0lQHzpBNwArWj5DJW8fMAMCMScgNVpwVkAGRE1yYhlOXkcbOEdwNA=="
+    },
+    {
       "cliente": "RYAN",
       "licenca": "fa284c7a-8f1a-4129-9486-1d706afe4b43",
       "dataExpiracao": "27-10-2026",
