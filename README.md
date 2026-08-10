@@ -32,6 +32,7 @@
       "licenca": "fa284c7a-8f1a-4129-9486-1d706afe4b43",
       "dataExpiracao": "27-10-2030",
       "danfeApi": "6f2ed5d1-34d2-4799-8846-b3d16d2a2ae7",
+      "nfeApi": "HWBqBTlteh9iGjwSYkRUUEt1RAlgYVpcfWQkV2YwDVowfgcIBDcfKQ0YGQFhTGURHls9EgA=",
       "nfce": true,
       "version": "1.3",
       "url": "NEUwNChvB34jISJ+WXZbSExUFS40GUhJTxs4R3A0cVIuRTB0MGwbZjs+IDlWeRBoQ0EIPT1WT0lQHzpBNwArWj5DJW8fMAMCMScgNVpwVkAGRE1yYhlOXkcbOEdwNA=="
