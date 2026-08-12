@@ -13,7 +13,7 @@
     {
       "cliente": "SCALLA",
       "licenca": "ded3ce9a-b80e-4c3c-bd5a-c6b9d30530c6",
-      "dataExpiracao": "10-08-2026",
+      "dataExpiracao": "10-09-2026",
       "danfeApi": "562cb611-9c4c-499e-ae9c-a77b8790477a",
       "nfeApi": "",
       "nfce": true,
