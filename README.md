@@ -3,7 +3,7 @@
     {
       "cliente": "EXATEC",
       "licenca": "57f56c52-9a43-4f36-8641-ebb127753056",
-      "dataExpiracao": "15-08-2026",
+      "dataExpiracao": "15-09-2026",
       "danfeApi": "f0a666d6-2a7c-4f0b-81e2-6a7cf5d7a873",
       "nfeApi": "",
       "nfce": false,
