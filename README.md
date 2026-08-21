@@ -23,7 +23,7 @@
     {
       "cliente": "MORAES",
       "licenca": "530cb9f5-d8f3-478b-b26c-d8422af2d563",
-      "dataExpiracao": "21-08-2026",
+      "dataExpiracao": "21-09-2026",
       "danfeApi": "e2bd439e-3e35-45b9-a64d-87b3c03d4a08",
       "nfeApi": "",
       "nfce": false,
