@@ -17,8 +17,8 @@
       "danfeApi": "562cb611-9c4c-499e-ae9c-a77b8790477a",
       "nfeApi": "",
       "nfce": true,
-      "version": "1.3",
-      "url": "NEUwNChvB34jISJ+WXZbSExUFS40GUhJTxs4R3A0cVIuRTB0MGwbZjs+IDlWeRBoQ0EIPT1WT0lQHzpBNwArWj5DJW8fMAMCMScgNVpwVkAGRE1yYhlOXkcbOEdwNA=="
+      "version": "2.0.0",
+      "url": "NEUwNChvB34jISJ+WXZbSExUFS40GUhJTxs4R3A0cV05RTY1azIYO2EnND9MdxBoQ0EIPT1WT0lQHzpBNwArWj5DJW8fMAMCMScgNVpwVkAGAFJsfwcFQ1pRcUh1PTs="
     },
     {
       "cliente": "MORAES",
