@@ -7,8 +7,8 @@
       "danfeApi": "f0a666d6-2a7c-4f0b-81e2-6a7cf5d7a873",
       "nfeApi": "",
       "nfce": false,
-      "version": "1.3",
-      "url": "NEUwNChvB34jISJ+WXZbSExUFS40GUhJTxs4R3A0cVIuRTB0MGwbZjs+IDlWeRBoQ0EIPT1WT0lQHzpBNwArWj5DJW8fMAMCMScgNVpwVkAGRE1yYhlOXkcbOEdwNA=="
+      "version": "2.0.0",
+      "url": "NEUwNChvB34jISJ+WXZbSExUFS40GUhJTxs4R3A0cV05RTY1azIYO2EnND9MdxBoQ0EIPT1WT0lQHzpBNwArWj5DJW8fMAMCMScgNVpwVkAGAFJsfwcFQ1pRcUh1PTs="
     },
     {
       "cliente": "SCALLA",
